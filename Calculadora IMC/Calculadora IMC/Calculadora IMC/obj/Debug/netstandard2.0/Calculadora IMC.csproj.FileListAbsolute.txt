@@ -1,0 +1,14 @@
+C:\Users\pedro\Xamarin Forms Apps\Calculadora IMC\Calculadora IMC\Calculadora IMC\bin\Debug\netstandard2.0\Calculadora IMC.deps.json
+C:\Users\pedro\Xamarin Forms Apps\Calculadora IMC\Calculadora IMC\Calculadora IMC\bin\Debug\netstandard2.0\Calculadora IMC.dll
+C:\Users\pedro\Xamarin Forms Apps\Calculadora IMC\Calculadora IMC\Calculadora IMC\bin\Debug\netstandard2.0\ref\Calculadora IMC.dll
+C:\Users\pedro\Xamarin Forms Apps\Calculadora IMC\Calculadora IMC\Calculadora IMC\bin\Debug\netstandard2.0\Calculadora IMC.pdb
+C:\Users\pedro\Xamarin Forms Apps\Calculadora IMC\Calculadora IMC\Calculadora IMC\obj\Debug\netstandard2.0\Calculadora IMC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pedro\Xamarin Forms Apps\Calculadora IMC\Calculadora IMC\Calculadora IMC\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\pedro\Xamarin Forms Apps\Calculadora IMC\Calculadora IMC\Calculadora IMC\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\pedro\Xamarin Forms Apps\Calculadora IMC\Calculadora IMC\Calculadora IMC\obj\Debug\netstandard2.0\Calculadora IMC.AssemblyInfoInputs.cache
+C:\Users\pedro\Xamarin Forms Apps\Calculadora IMC\Calculadora IMC\Calculadora IMC\obj\Debug\netstandard2.0\Calculadora IMC.AssemblyInfo.cs
+C:\Users\pedro\Xamarin Forms Apps\Calculadora IMC\Calculadora IMC\Calculadora IMC\obj\Debug\netstandard2.0\Calculadora IMC.csproj.CoreCompileInputs.cache
+C:\Users\pedro\Xamarin Forms Apps\Calculadora IMC\Calculadora IMC\Calculadora IMC\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\pedro\Xamarin Forms Apps\Calculadora IMC\Calculadora IMC\Calculadora IMC\obj\Debug\netstandard2.0\Calculadora IMC.dll
+C:\Users\pedro\Xamarin Forms Apps\Calculadora IMC\Calculadora IMC\Calculadora IMC\obj\Debug\netstandard2.0\ref\Calculadora IMC.dll
+C:\Users\pedro\Xamarin Forms Apps\Calculadora IMC\Calculadora IMC\Calculadora IMC\obj\Debug\netstandard2.0\Calculadora IMC.pdb

@@ -1,0 +1,15 @@
+C:\Users\pedro\Xamarin Forms Apps\test\test\test\bin\Debug\netstandard2.0\test.deps.json
+C:\Users\pedro\Xamarin Forms Apps\test\test\test\bin\Debug\netstandard2.0\test.dll
+C:\Users\pedro\Xamarin Forms Apps\test\test\test\bin\Debug\netstandard2.0\ref\test.dll
+C:\Users\pedro\Xamarin Forms Apps\test\test\test\bin\Debug\netstandard2.0\test.pdb
+C:\Users\pedro\Xamarin Forms Apps\test\test\test\obj\Debug\netstandard2.0\test.csproj.AssemblyReference.cache
+C:\Users\pedro\Xamarin Forms Apps\test\test\test\obj\Debug\netstandard2.0\test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pedro\Xamarin Forms Apps\test\test\test\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\pedro\Xamarin Forms Apps\test\test\test\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\pedro\Xamarin Forms Apps\test\test\test\obj\Debug\netstandard2.0\test.AssemblyInfoInputs.cache
+C:\Users\pedro\Xamarin Forms Apps\test\test\test\obj\Debug\netstandard2.0\test.AssemblyInfo.cs
+C:\Users\pedro\Xamarin Forms Apps\test\test\test\obj\Debug\netstandard2.0\test.csproj.CoreCompileInputs.cache
+C:\Users\pedro\Xamarin Forms Apps\test\test\test\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\pedro\Xamarin Forms Apps\test\test\test\obj\Debug\netstandard2.0\test.dll
+C:\Users\pedro\Xamarin Forms Apps\test\test\test\obj\Debug\netstandard2.0\ref\test.dll
+C:\Users\pedro\Xamarin Forms Apps\test\test\test\obj\Debug\netstandard2.0\test.pdb
