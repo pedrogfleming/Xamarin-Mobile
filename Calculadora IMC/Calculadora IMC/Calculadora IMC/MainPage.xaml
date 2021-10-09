@@ -5,13 +5,21 @@
              Visual="Material">
 
     <StackLayout VerticalOptions="Center"
-                 HorizontalOptions="Center">
-        <Label Text="Calcula tu IMC" x:Name="lbAltura"></Label>
+                 HorizontalOptions="Center"
+                 WidthRequest="250">
+        <Label Text="Calcula tu IMC" x:Name="lbAltura" 
+               FontAttributes="Bold"
+               FontSize="50"
+               HorizontalTextAlignment="Center"
+               TextColor="#565168"
+               ></Label>
         <Entry Placeholder="Altura" x:Name="entAltura" Keyboard="Numeric" ></Entry>
         <Entry Placeholder="Peso" x:Name="entPeso" Keyboard="Numeric" ></Entry>
         <Entry Placeholder="Tu IMC" x:Name="entIMC"
                IsEnabled="False"></Entry>
-        <Button Text="Calcular" Clicked="Button_Clicked"></Button>
+        <Button Text="Calcular" Clicked="Button_Clicked"
+                BackgroundColor ="Magenta"
+                ></Button>
         
     </StackLayout>
 
