@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "3vz3Beg5WcwbWFqIeGlUnvo/+5nlRulJz5gFzAWAPvMnm0YpxR5+XY+xM9B1+t0Tz9VLnEMH2HZN/IGUPO8SPw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\pedro\\Xamarin Forms Apps\\RegistroCervezas\\RegistroCervezas\\RegistroCervezas.iOS\\RegistroCervezas.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\pedro\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.6.1\\xamarin.essentials.1.6.1.nupkg.sha512",
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\5.0.0.2012\\xamarin.forms.5.0.0.2012.nupkg.sha512"
+  ],
+  "logs": []
+}

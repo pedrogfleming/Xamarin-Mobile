@@ -1,0 +1,10 @@
+C:\Users\pedro\Xamarin Forms Apps\MBCalculator\MBCalculator\MBCalculator\obj\Debug\netstandard2.0\MBCalculator.csproj.AssemblyReference.cache
+C:\Users\pedro\Xamarin Forms Apps\MBCalculator\MBCalculator\MBCalculator\obj\Debug\netstandard2.0\MBCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pedro\Xamarin Forms Apps\MBCalculator\MBCalculator\MBCalculator\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\pedro\Xamarin Forms Apps\MBCalculator\MBCalculator\MBCalculator\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\pedro\Xamarin Forms Apps\MBCalculator\MBCalculator\MBCalculator\obj\Debug\netstandard2.0\MBCalculator.AssemblyInfoInputs.cache
+C:\Users\pedro\Xamarin Forms Apps\MBCalculator\MBCalculator\MBCalculator\obj\Debug\netstandard2.0\MBCalculator.AssemblyInfo.cs
+C:\Users\pedro\Xamarin Forms Apps\MBCalculator\MBCalculator\MBCalculator\obj\Debug\netstandard2.0\MBCalculator.csproj.CoreCompileInputs.cache
+C:\Users\pedro\Xamarin Forms Apps\MBCalculator\MBCalculator\MBCalculator\obj\Debug\netstandard2.0\MBCalculator.dll
+C:\Users\pedro\Xamarin Forms Apps\MBCalculator\MBCalculator\MBCalculator\obj\Debug\netstandard2.0\ref\MBCalculator.dll
+C:\Users\pedro\Xamarin Forms Apps\MBCalculator\MBCalculator\MBCalculator\obj\Debug\netstandard2.0\MBCalculator.pdb

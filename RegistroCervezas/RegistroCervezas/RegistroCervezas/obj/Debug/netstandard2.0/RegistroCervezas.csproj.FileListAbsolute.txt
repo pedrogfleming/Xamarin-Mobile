@@ -1,0 +1,16 @@
+C:\Users\pedro\Xamarin Forms Apps\RegistroCervezas\RegistroCervezas\RegistroCervezas\bin\Debug\netstandard2.0\RegistroCervezas.deps.json
+C:\Users\pedro\Xamarin Forms Apps\RegistroCervezas\RegistroCervezas\RegistroCervezas\bin\Debug\netstandard2.0\RegistroCervezas.dll
+C:\Users\pedro\Xamarin Forms Apps\RegistroCervezas\RegistroCervezas\RegistroCervezas\bin\Debug\netstandard2.0\ref\RegistroCervezas.dll
+C:\Users\pedro\Xamarin Forms Apps\RegistroCervezas\RegistroCervezas\RegistroCervezas\bin\Debug\netstandard2.0\RegistroCervezas.pdb
+C:\Users\pedro\Xamarin Forms Apps\RegistroCervezas\RegistroCervezas\RegistroCervezas\obj\Debug\netstandard2.0\RegistroCervezas.csproj.AssemblyReference.cache
+C:\Users\pedro\Xamarin Forms Apps\RegistroCervezas\RegistroCervezas\RegistroCervezas\obj\Debug\netstandard2.0\RegistroCervezas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pedro\Xamarin Forms Apps\RegistroCervezas\RegistroCervezas\RegistroCervezas\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\pedro\Xamarin Forms Apps\RegistroCervezas\RegistroCervezas\RegistroCervezas\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\pedro\Xamarin Forms Apps\RegistroCervezas\RegistroCervezas\RegistroCervezas\obj\Debug\netstandard2.0\RegistroCervezas.AssemblyInfoInputs.cache
+C:\Users\pedro\Xamarin Forms Apps\RegistroCervezas\RegistroCervezas\RegistroCervezas\obj\Debug\netstandard2.0\RegistroCervezas.AssemblyInfo.cs
+C:\Users\pedro\Xamarin Forms Apps\RegistroCervezas\RegistroCervezas\RegistroCervezas\obj\Debug\netstandard2.0\RegistroCervezas.csproj.CoreCompileInputs.cache
+C:\Users\pedro\Xamarin Forms Apps\RegistroCervezas\RegistroCervezas\RegistroCervezas\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\pedro\Xamarin Forms Apps\RegistroCervezas\RegistroCervezas\RegistroCervezas\obj\Debug\netstandard2.0\RegistroCervezas.dll
+C:\Users\pedro\Xamarin Forms Apps\RegistroCervezas\RegistroCervezas\RegistroCervezas\obj\Debug\netstandard2.0\ref\RegistroCervezas.dll
+C:\Users\pedro\Xamarin Forms Apps\RegistroCervezas\RegistroCervezas\RegistroCervezas\obj\Debug\netstandard2.0\RegistroCervezas.pdb
+C:\Users\pedro\Xamarin Forms Apps\RegistroCervezas\RegistroCervezas\RegistroCervezas\obj\Debug\netstandard2.0\Views\CervezaPage.xaml.g.cs

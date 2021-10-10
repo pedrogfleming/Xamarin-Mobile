@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="RegistroCervezas.Views.CervazaPage">
+    <StackLayout Margin="20">
+        <Editor Placeholder="Nombre de Cerveza"
+                Text="{Binding Name}" 
+                   ></Editor>
+        <Editor Placeholder="Marca de Cerveza"
+                   Text="{Binding Brand}" 
+                   ></Editor>
+        <Editor Placeholder="Estilo de Cerveza"
+                   Text="{Binding Style}" 
+        ></Editor>
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*"></ColumnDefinition>            
+        </Grid.ColumnDefinitions>
+            <Button Text="Guardar " Clicked="OnSave"></Button>
+    </Grid>      
+    </StackLayout>
+</ContentPage>

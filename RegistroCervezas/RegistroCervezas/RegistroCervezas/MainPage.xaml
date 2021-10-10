@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="RegistroCervezas.MainPage">
+
+    <!--Permite crear una barra de herramientas arriba-->
+    <ContentPage.ToolbarItems>
+        <!--Al tocar el boton +, se abre una nueva pagina-->
+        <ToolbarItem Text="+" Clicked="OnNew"></ToolbarItem>
+    </ContentPage.ToolbarItems>
+
+    <!--Agrego un listado-->
+    <ListView x:Name="listView">
+        <ListView.ItemTemplate>
+            <DataTemplate>
+                <!--Muestro los dos atributos de mi clase>-->
+                <TextCell Text="{Binding Name}"
+                          Detail="{Binding Brand}">
+                </TextCell>
+            </DataTemplate>
+        </ListView.ItemTemplate>
+    </ListView>
+
+</ContentPage>

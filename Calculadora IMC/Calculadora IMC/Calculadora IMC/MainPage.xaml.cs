@@ -22,7 +22,12 @@ namespace Calculadora_IMC
                 if(!string.IsNullOrEmpty(entAltura.Text) && !string.IsNullOrEmpty(entPeso.Text))
                 {
                     double altura = double.Parse(entAltura.Text);
+
                     double peso = double.Parse(entPeso.Text);
+                    if (altura > 2.50 && peso > 400)
+                    {
+                        throw new System.ArgumentException();
+                    }
                     double imc = peso / (altura * altura);
                     entIMC.Text = imc.ToString();
                     string resultado = string.Empty;
@@ -51,14 +56,16 @@ namespace Calculadora_IMC
             }
             catch (System.FormatException)
             {
-
                 DisplayAlert("Error de input", "Ingrese sólo numeros", "OK");
             }
             catch(System.ArgumentNullException)
             {
-                DisplayAlert("Error de input vacio", "Ingrese valores para calcular", "OK");
+                DisplayAlert("No se puede calcular", "Ingrese valores para poder calcular", "OK");
             }
-
+            catch(ArgumentException)
+            {
+                DisplayAlert("Pasaron cosas...", "No se que paso aca...", "OK");
+            }
         }
     }
 }
