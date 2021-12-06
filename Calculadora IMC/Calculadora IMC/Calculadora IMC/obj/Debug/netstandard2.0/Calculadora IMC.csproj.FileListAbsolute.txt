@@ -13,3 +13,4 @@ C:\Users\pedro\Xamarin Forms Apps\Calculadora IMC\Calculadora IMC\Calculadora IM
 C:\Users\pedro\Xamarin Forms Apps\Calculadora IMC\Calculadora IMC\Calculadora IMC\obj\Debug\netstandard2.0\ref\Calculadora IMC.dll
 C:\Users\pedro\Xamarin Forms Apps\Calculadora IMC\Calculadora IMC\Calculadora IMC\obj\Debug\netstandard2.0\Calculadora IMC.pdb
 C:\Users\pedro\Xamarin Forms Apps\Calculadora IMC\Calculadora IMC\Calculadora IMC\obj\Debug\netstandard2.0\Calculadora IMC.csproj.AssemblyReference.cache
+C:\Users\pedro\Xamarin Forms Apps\Calculadora IMC\Calculadora IMC\Calculadora IMC\obj\Debug\netstandard2.0\View\InformacionView.xaml.g.cs

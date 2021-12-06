@@ -1,0 +1,16 @@
+C:\Users\pedro\Xamarin Forms Apps\TestEnvioMails\TestEnvioMails\bin\Debug\net5.0\TestEnvioMails.exe
+C:\Users\pedro\Xamarin Forms Apps\TestEnvioMails\TestEnvioMails\bin\Debug\net5.0\TestEnvioMails.deps.json
+C:\Users\pedro\Xamarin Forms Apps\TestEnvioMails\TestEnvioMails\bin\Debug\net5.0\TestEnvioMails.runtimeconfig.json
+C:\Users\pedro\Xamarin Forms Apps\TestEnvioMails\TestEnvioMails\bin\Debug\net5.0\TestEnvioMails.runtimeconfig.dev.json
+C:\Users\pedro\Xamarin Forms Apps\TestEnvioMails\TestEnvioMails\bin\Debug\net5.0\TestEnvioMails.dll
+C:\Users\pedro\Xamarin Forms Apps\TestEnvioMails\TestEnvioMails\bin\Debug\net5.0\ref\TestEnvioMails.dll
+C:\Users\pedro\Xamarin Forms Apps\TestEnvioMails\TestEnvioMails\bin\Debug\net5.0\TestEnvioMails.pdb
+C:\Users\pedro\Xamarin Forms Apps\TestEnvioMails\TestEnvioMails\obj\Debug\net5.0\TestEnvioMails.csproj.AssemblyReference.cache
+C:\Users\pedro\Xamarin Forms Apps\TestEnvioMails\TestEnvioMails\obj\Debug\net5.0\TestEnvioMails.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pedro\Xamarin Forms Apps\TestEnvioMails\TestEnvioMails\obj\Debug\net5.0\TestEnvioMails.AssemblyInfoInputs.cache
+C:\Users\pedro\Xamarin Forms Apps\TestEnvioMails\TestEnvioMails\obj\Debug\net5.0\TestEnvioMails.AssemblyInfo.cs
+C:\Users\pedro\Xamarin Forms Apps\TestEnvioMails\TestEnvioMails\obj\Debug\net5.0\TestEnvioMails.csproj.CoreCompileInputs.cache
+C:\Users\pedro\Xamarin Forms Apps\TestEnvioMails\TestEnvioMails\obj\Debug\net5.0\TestEnvioMails.dll
+C:\Users\pedro\Xamarin Forms Apps\TestEnvioMails\TestEnvioMails\obj\Debug\net5.0\ref\TestEnvioMails.dll
+C:\Users\pedro\Xamarin Forms Apps\TestEnvioMails\TestEnvioMails\obj\Debug\net5.0\TestEnvioMails.pdb
+C:\Users\pedro\Xamarin Forms Apps\TestEnvioMails\TestEnvioMails\obj\Debug\net5.0\TestEnvioMails.genruntimeconfig.cache

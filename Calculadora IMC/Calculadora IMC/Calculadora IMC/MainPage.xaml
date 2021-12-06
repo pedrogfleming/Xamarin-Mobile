@@ -4,6 +4,12 @@
              x:Class="Calculadora_IMC.MainPage"
              Visual="Material">
 
+    <!--Permite crear una barra de herramientas arriba-->
+    <ContentPage.ToolbarItems>
+        <!--Al tocar el boton +, se abre una nueva pagina-->
+        <ToolbarItem Text="+" Clicked="OnNew"></ToolbarItem>
+    </ContentPage.ToolbarItems>
+    
     <StackLayout VerticalOptions="Center"
                  HorizontalOptions="Center"
                  WidthRequest="250">
@@ -22,5 +28,6 @@
                 ></Button>
         
     </StackLayout>
-
+    
+    
 </ContentPage>

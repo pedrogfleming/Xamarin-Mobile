@@ -3,7 +3,6 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-
 using Xamarin.Forms;
 using Xamarin.Forms.Xaml;
 
@@ -18,10 +17,16 @@ namespace RegistroCervezas.Views
         }
         async void OnSave(object sender, EventArgs e)
         {
-            //Me va a llenar automaticamente el objeto a partir del formulario
-            CervezaViewModel cerveza = (CervezaViewModel)BindingContext;
-            MainPage.cervezas.Add(cerveza);
+            //Me va a llenar automaticamente el objeto a partir del formulario           
+            if(!string.IsNullOrWhiteSpace(txtNombreCerveza.Text) &&
+                !string.IsNullOrWhiteSpace(txtEstiloCerveza.Text) &&
+                !string.IsNullOrWhiteSpace(txtEstiloCerveza.Text))
+            {
+                CervezaViewModel cerveza = (CervezaViewModel)BindingContext;
+                MainPage.cervezas.Add(cerveza);
+            }
             //Para regresar a la que lo invoco, se quita a si misma para que deje a la de atras
+            //Espera a que se salga de la nueva pagina. Borra la nueva pagina
             await Navigation.PopAsync();
         }
         private void Button_Clicked(object sender, EventArgs e)

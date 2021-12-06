@@ -20,26 +20,27 @@ namespace Calculadora_IMC
             try
             {
                 if(!string.IsNullOrEmpty(entAltura.Text) && !string.IsNullOrEmpty(entPeso.Text))
-                {
+                {                    
                     double altura = double.Parse(entAltura.Text);
-
-                    double peso = double.Parse(entPeso.Text);
+                    double peso = double.Parse(entPeso.Text);                    
                     if (altura > 2.50 && peso > 400)
                     {
                         throw new System.ArgumentException();
                     }
+                    Persona aux = new Persona(altura, peso);
+
                     double imc = peso / (altura * altura);
                     entIMC.Text = imc.ToString();
                     string resultado = string.Empty;
-                    if (imc < 18.5)
+                    if (aux.Imc < 18.5)
                     {
                         resultado = "Tienes bajo peso";
                     }
-                    else if (imc >= 18.5 && imc <= 24.9)
+                    else if (aux.Imc >= 18.5 && aux.Imc <= 24.9)
                     {
                         resultado = "Tu peso es normal";
                     }
-                    else if (imc >= 25 && imc <= 29.9)
+                    else if (aux.Imc >= 25 && aux.Imc <= 29.9)
                     {
                         resultado = "Tienes sobrepeso";
                     }
@@ -66,6 +67,15 @@ namespace Calculadora_IMC
             {
                 DisplayAlert("Pasaron cosas...", "No se que paso aca...", "OK");
             }
+        }
+
+        private void OnNew(object sender, EventArgs e)
+        {
+            //Creo una nueva vista y la sumo a la cola
+            //await Navigation.PushAsync(new View.InformacionView()            
+            //{
+            //    BindingContext = new ()
+            //});
         }
     }
 }
